@@ -1,10 +1,8 @@
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://bit.ly/cc-by-nc-sa-40)
 
-# Template repository
-
-This is a template repository for programming laboratory works in BSUIR.
-
 # Usage
+
+To clone repository correctly use `--recursive` flag with `git`.
 
 To compile and run a program use:
 ```
@@ -13,11 +11,23 @@ $ ./build.sh gcc src/<filename>
 
 Executable will be started automatically. It can be found in `build/scr/` folder.
 
-# Semester \<#\> lab \<#\>
+# Semester \<1\> lab \<7\>
 
-## Task \<#\>
+## Task \<1\>
 
-Task description.
+Find and display in a given one-dimensional array:
+1. All numbers are greater than a given N
+2. Number of first elements, the sum of which is less than N
+3. The maximum element among the first N elements
+4. All elements whose index is a multiple of N
+
+Original (ru):
+
+В заданном одномерном массиве найти и вывести на экран:
+1. Все числа больше заданного N
+2. Кол-во первых элементов, сумма которых меньше N
+3. Максимальный элемент среди первых N элементов
+4. Все элементы, индекс которых кратен N
 
 # Credits
 
