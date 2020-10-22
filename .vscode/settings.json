@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/third-party/tools-storage/include",
+        "${workspaceFolder}/third-party/tools-stuff/include"
+    ]
+}
